@@ -26,8 +26,8 @@ This project gives the opportunity to recode functions that already exist in dif
 
 ## Functions from [![<stdlib.h>](https://img.shields.io/badge/-%3Cstdlib.h%3E-blue)](https://devdocs.io/c/memory) library ✅
 
-- [`ft_atoi`](/ft_atoi.c) ~ convert ASCII string to integer  🔰
-- [`ft_calloc`](/ft_calloc.c) ~ memory allocation initialize with zeros 🔰
+- [`ft_atoi`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_atoi.c) ~ convert ASCII string to integer  🔰
+- [`ft_calloc`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_calloc.c) ~ memory allocation initialize with zeros 🔰
 
 ## Functions from [![<strings.h>](https://img.shields.io/badge/-%3Cstrings.h%3E-blue)](https://fr.wikipedia.org/wiki/String.h) library ✅
 
@@ -54,7 +54,7 @@ This project gives the opportunity to recode functions that already exist in dif
 - [`ft_putchar_fd`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_putchar_fd.c) ~ output a character to given file 🔰
 - [`ft_putstr_fd`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_putstr_fd.c) ~ output string to given file 🔰
 - [`ft_putendl_fd`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_putendl_fd.c) ~ output string to given file with newline 🔰
-- [`ft_putnbr_fd`](/ft_putnbr_fd.c) ~ output integer to given file 🔰
+- [`ft_putnbr_fd`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_putnbr_fd.c) ~ output integer to given file 🔰
 - [`ft_itoa`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_itoa.c) ~ convert integer to ASCII string 🔰
 - [`ft_substr`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_substr.c) ~ extract substring from string 🔰
 - [`ft_strtrim`](https://github.com/zikoziko01/libft/tree/main/Mandatory/ft_strtrim.c) ~ trim beginning and end of string with the specified characters 🔰
@@ -67,15 +67,15 @@ This project gives the opportunity to recode functions that already exist in dif
 
 ## Linked list functions ✅
 
-- [`ft_lstnew`](https://github.com/zikoziko01/libft/tree/main//ft_lstnew.c) ~ create new list  🔰
-- [`ft_lstsize`](https://github.com/zikoziko01/libft/tree/main//ft_lstsize.c) ~ count elements of a list 🔰
-- [`ft_lstlast`](https://github.com/zikoziko01/libft/tree/main//ft_lstlast.c) ~ find last element of list 🔰
-- [`ft_lstadd_back`](https://github.com/zikoziko01/libft/tree/main//ft_lstadd_back.c) ~ add new element at end of list 🔰
-- [`ft_lstadd_front`](https://github.com/zikoziko01/libft/tree/main//ft_lstadd_front.c) ~ add new element at beginning of list 🔰
-- [`ft_lstdelone`](https://github.com/zikoziko01/libft/tree/main//ft_lstdelone.c) ~ delete element from list 🔰
-- [`ft_lstclear`](https://github.com/zikoziko01/libft/tree/main//ft_lstclear.c) ~ delete sequence of elements of list from a starting point 🔰
-- [`ft_lstiter`](https://github.com/zikoziko01/libft/tree/main//ft_lstiter.c) ~ apply function to content of all list's elements 🔰
-- [`ft_lstmap`](https://github.com/zikoziko01/libft/tree/main//ft_lstmap.c) ~ apply function to content of all list's elements into new list 🔰
+- [`ft_lstnew`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstnew.c) ~ create new list  🔰
+- [`ft_lstsize`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstsize.c) ~ count elements of a list 🔰
+- [`ft_lstlast`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstlast.c) ~ find last element of list 🔰
+- [`ft_lstadd_back`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstadd_back.c) ~ add new element at end of list 🔰
+- [`ft_lstadd_front`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstadd_front.c) ~ add new element at beginning of list 🔰
+- [`ft_lstdelone`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstdelone.c) ~ delete element from list 🔰
+- [`ft_lstclear`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstclear.c) ~ delete sequence of elements of list from a starting point 🔰
+- [`ft_lstiter`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstiter.c) ~ apply function to content of all list's elements 🔰
+- [`ft_lstmap`](https://github.com/zikoziko01/libft/tree/main/Bonus/ft_lstmap.c) ~ apply function to content of all list's elements into new list 🔰
   
 # > How To Use The Library 📚
 
