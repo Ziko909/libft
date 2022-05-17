@@ -32,7 +32,7 @@ all :  Intro $(NAME)
 
 %.o : %.c
 	@$(CC) $(CFLAGS) -o $@ -c $<
-	@echo "\x1b[35m   The Object File Of $< Is Created \x1b[0m"
+	@echo "\x1b[35m The Object File Of $< Is Created \x1b[0m"
 
 $(NAME) : $(OBJ) $(HEADER)
 	@ar -rc $(NAME) $(OBJ)
