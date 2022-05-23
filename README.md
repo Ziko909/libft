@@ -1,7 +1,7 @@
 # libft
 
 <div align="center">
-<img width=1000 hiegth=400 src="https://github.com/zikoziko01/libft/tree/main/Img/libft.jpg">
+<img width=1000 hiegth=400 src="https://github.com/zikoziko01/libft/tree/main/Img/libft.gif">
 </div>
 
 <hr/>
